@@ -25,7 +25,7 @@ monitors:
     linkable: true # allows the title to be a link, default=true
 
   - id: 'status.openai.com'
-    name: 'OpenAI Status'
+    name: 'OpenAI'
     description: 'OpenAi 服务状态'
     url: 'https://status.openai.com/'
     method: GET
